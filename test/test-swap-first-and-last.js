@@ -1,3 +1,4 @@
+'use strict';
 const assert = require('assert');
 const swapFirstAndLast = require('../swap-first-and-last');
 
